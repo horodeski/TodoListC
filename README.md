@@ -1,6 +1,6 @@
 # 📝 To-Do List em C
 
-Este projeto é um gerenciador simples de tarefas (To-Do List) desenvolvido em linguagem C. Ele foi criado como parte dos meus estudos com base no vídeo [**"Projeto TO-DO LIST em linguagem C"**](https://www.youtube.com/watch?v=AvVzfpQAQuE) do canal **Curso em Vídeo**, ministrado por Gustavo Guanabara.
+Este projeto é um gerenciador simples de tarefas (To-Do List) desenvolvido em linguagem C. Ele foi criado como parte dos meus estudos com base no vídeo [**"Projeto TO-DO LIST em linguagem C"**](https://www.youtube.com/watch?v=AvVzfpQAQuE)
 
 ## 📌 Funcionalidades
 
